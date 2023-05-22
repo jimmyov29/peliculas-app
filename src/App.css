@@ -6,13 +6,3 @@ color:#9F91FE;
 text-decoration: none;
 }
 
-/* parte de chatgpt */
-
-.header-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 9999;
-  background-color: #ffffff;
-}
