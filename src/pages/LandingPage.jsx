@@ -6,3 +6,5 @@ export function LandigPage(){
         </div>
     );
 }
+
+export default LandigPage;
