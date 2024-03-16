@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { get } from "../data/HttpClient";
+import { get } from "../data/httpClient";
 import { MovieCard } from "./MovieCard";
 import "../components/ContextMovieCard.css";
 export function ContextMovieCard() {
