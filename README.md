@@ -7,6 +7,9 @@ Proyecto donde cosumimos datos de un api de peliculas
 
 ![image](https://github.com/jimmyov29/peliculas-app/assets/82368446/f8632025-ef26-433b-a345-c7a29d292b3a)
 
+![image](https://github.com/jimmyov29/peliculas-app/assets/82368446/5a080588-3bfa-415b-b1d6-d1b00521e32a)
+
+
 
 ### Dev enviroment
 - NodeJs: 18.12.0
