@@ -5,6 +5,9 @@ https://peliculas-app-jsov29.netlify.app/
 
 Proyecto donde cosumimos datos de un api de peliculas
 
+![image](https://github.com/jimmyov29/peliculas-app/assets/82368446/f8632025-ef26-433b-a345-c7a29d292b3a)
+
+
 ### Dev enviroment
 - NodeJs: 18.12.0
 
