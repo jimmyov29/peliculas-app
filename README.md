@@ -1,4 +1,4 @@
-#take a look on the demo
+# Take a look on the demo
 https://peliculas-app-jsov29.netlify.app/
 
 # Peliculas app
